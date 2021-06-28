@@ -1,4 +1,4 @@
-const baseUrl = "http://example.com"; // Replace the value "http://example.com" by the base URL of the website you want to test.
+const baseUrl = "https://www.guru99.com"; // Replace the value "http://example.com" by the base URL of the website you want to test.
 const projectId = "sample project"; // Replace the value "sample project" by the id of your project. It can be any string (e.g., "my-website").
 
 // Replace the values of the below array with the relative URLs of your website. E.g., "/about", "/contact", "/pricing", etc.
@@ -6,10 +6,10 @@ const projectId = "sample project"; // Replace the value "sample project" by the
 // Add as many relative URLs as you need.
 const relativeUrls =[
   "/",
-  "/page1",
-  "/page2",
-  "/page3",
-  "/page4",
+  "/agile-testing-course.html",
+  "bugzilla-tutorial-for-beginners.html",
+  "/cucumber-tutorials.html",
+  
 ];
 
 // Leave the below array as is if you want to test your website using the viewports listed below.
